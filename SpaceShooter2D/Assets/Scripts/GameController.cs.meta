@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cdc1cce7ef57f3b428df7f8e1bd13826
+timeCreated: 1490118462
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - asteroid: {instanceID: 0}
+  - gameOverText: {instanceID: 0}
+  - player: {fileID: 1584967640527210, guid: 237081948fb2c4042b9b620fc924da65, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
